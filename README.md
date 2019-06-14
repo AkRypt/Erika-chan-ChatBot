@@ -1,2 +1,5 @@
 # Erika-chan-ChatBot
-It is a ChatBot made using if-else ladder and .matches() method of Java.
+It is a ChatBot which takes in 
+Keyboard input and voice input as well
+and gives a response. 
+Is trained upto some extent.
