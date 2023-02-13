@@ -5,4 +5,5 @@ and gives a response.
 Is trained upto some extent.
 
 
-![Erika-Chan](https://imgur.com/02VG9gr.jpg)
+<!-- ![Erika-Chan](https://imgur.com/02VG9gr.jpg) -->
+<img src="https://imgur.com/02VG9gr.jpg" style="width: 300px"/>
